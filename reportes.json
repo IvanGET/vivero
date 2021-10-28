@@ -1,0 +1,30 @@
+  {
+    "reportes":[{
+       "id":1,
+       "mes":"Enero",
+       "vivero":{
+         "nombre":"La morita",
+         "ubicacion":"Blvd. Olivos Norte 38",
+         "encargado":"Lic. Karla Carolina Mortera Ochoa"
+       },
+       "actividades":[{
+         "id":1,
+         "descripcion":"Riego en todas las areas"
+         },
+         {
+         "id":2,
+         "descripcion":"Limpieza de invernadero"
+         }
+       ],
+       "imagenes":[{
+         "id":1,
+         "url":"imagen1.jpg"
+       },
+       {
+         "id":2,
+         "url":"imagen2.jpg"
+       }
+       ]
+  }   
+  ]
+}
