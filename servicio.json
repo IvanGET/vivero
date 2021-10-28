@@ -1,0 +1,27 @@
+{
+    "servicioSocial":[{
+    "id":1,
+    "programa":"...",
+    "responsable":"Lic. Karla Carolina Mortera Ochoa",
+    "prestacion":[{
+      "id":1,
+      "nombre":"William Peraza",
+      "actividad":"Riego de plantas",
+      "matricula":"0318122283",
+      "grupo":"A",
+      "celular":"6649593343",
+      "nss":"0302391932",
+      "asistencia":[{
+        "estado":"falta",
+        "fecha":"29-05-2021"
+        },
+        {
+        "estado":"asistencia",
+        "fecha":"30-05-2021"
+        }
+      ]
+    }
+    ]
+  }
+  ]
+}
