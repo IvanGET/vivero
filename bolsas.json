@@ -1,0 +1,14 @@
+{
+    "mensajes":[{
+        "idBolsa": 1,
+        "mensaje": "Cambio de bolsa,",
+        "bolsa": "bolsa 1",
+        "tiempo": "Hoy"
+    },
+    {
+        "idBolsa": 2,
+        "mensaje": "Cambio de bolsa,",
+        "bolsa": "bolsa 2",
+        "tiempo": "1 dia"
+    }]
+}
