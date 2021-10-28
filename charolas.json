@@ -1,0 +1,14 @@
+{
+    "mensajes":[{
+        "id": 1,
+        "mensaje": "Cambio a embolsado,",
+        "charola": "charola 1",
+        "tiempo": "Hoy"
+    },
+    {
+        "id": 2,
+        "mensaje": "Cambio a embolsado,",
+        "charola": "charola 2",
+        "tiempo": "1 dia"
+    }]
+}
