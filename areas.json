@@ -1,0 +1,12 @@
+{
+    "areas":[{
+        "id": 1,
+        "nombre": "Area,",
+        "letra": "A"
+    },
+    {
+        "id": 2,
+        "nombre": "Area,",
+        "letra": "B"
+    }]
+}
