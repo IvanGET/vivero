@@ -1,0 +1,10 @@
+{
+    "especies":[{
+        "id": 1,
+        "nombre": "Acacias,"
+    },
+    {
+        "id": 2,
+        "nombre": "Glorias,"
+    }]
+}
